@@ -1,4 +1,7 @@
 # Hi there! I'm Javier. 👋
+
+[![@j_cordz's Holopin board](https://holopin.me/j_cordz)](https://holopin.io/@j_cordz)
+
 ### Hey! I'm an 18-year-old person from Mexico. 🇲🇽 Here are some interesting things about me:
 - 🔬 I'm a medical student. 
 - 💡 I enjoy making things! I open source everything I make here on GitHub.
