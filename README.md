@@ -48,3 +48,7 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api?username=javierzaleta&show_icons=true&hide_border=true&theme=onedark" alt="Javier Zaleta GitHub Stats"/></a>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=javierzaleta&hide_border=true&theme=onedark" alt="Javier Zaleta Top Languages"/></a>
 </p>
+
+<p align="center">
+ <img src="https://github.com/javierzaleta/javierzaleta-metrics/blob/main/github-metrics.svg">
+</p>
